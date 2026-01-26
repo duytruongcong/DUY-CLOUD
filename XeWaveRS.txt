@@ -1,7 +1,5 @@
 15/01/2024
 - Thay lốp xe sau.
-15/05/2024
-- Thay ruột xe sau.
 22/08/2024
 - Thay ruột xe trước.
 25/09/2025
@@ -9,4 +7,6 @@
 - Tăng xên, tra nhớt xên
 - Thay nhớt tại 53000km
 01/12/2025
-Thay bình xạc 12V, bảo hành 6 tháng.
+- Thay bình xạc 12V, bảo hành 6 tháng.
+05/03/2026
+- Thay ruột xe sau.

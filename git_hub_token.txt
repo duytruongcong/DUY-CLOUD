@@ -1,2 +1,5 @@
 kiki:
 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
+----------------------
+Copy the token and paste it into GitKraken.
+eJwtzMFqAjEQgOF3mXMOu4msaa7Fgm1BtIX2FmaT0YaNSZjsror47gXZ6w/ffwd0jmr9zgMlMECtkusX5b3CVjZN5+RRr5XUXvbYKb3SJFG5lQQBhfMcPPFC78vJjsvq9Jetft1+bpJ8/9h8dfXAu92vGrfXYZ73XRt/Gkr8hiDgSex4KwQGekImBgHV5WdAfw7JlKmPwdmBboIJvcl8Ekwli6kSGzpjiOKSeTjGfAEBdC2BqVocwaQpxsfjH8uRT2g=
